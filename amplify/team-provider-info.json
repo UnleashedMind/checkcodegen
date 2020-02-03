@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-checkcodegen-dev-144806-authRole",
+            "UnauthRoleArn": "arn:aws:iam::466632810889:role/amplify-checkcodegen-dev-144806-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::466632810889:role/amplify-checkcodegen-dev-144806-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-checkcodegen-dev-144806-deployment",
+            "UnauthRoleName": "amplify-checkcodegen-dev-144806-unauthRole",
+            "StackName": "amplify-checkcodegen-dev-144806",
+            "StackId": "arn:aws:cloudformation:us-west-2:466632810889:stack/amplify-checkcodegen-dev-144806/3f140110-46d7-11ea-b1a7-026b5a8136ba",
+            "AmplifyAppId": "d3dxaaoy8pxead"
+        }
+    }
+}
